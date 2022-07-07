@@ -1,1 +1,2 @@
-This is teh second file I created 
+This is the second file I created 
+more changes added 
